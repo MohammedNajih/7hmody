@@ -1,2 +1,2 @@
-BOT_TOKEN = "5309488279:AAFKC2SVEB-ZWluRiuSG_H1x6u-BM7SK95E"
-APP_URL = "https://kssd.herokuapp.com/" + BOT_TOKEN
+BOT_TOKEN = "5480514331:AAH3_ArrhjHU2fmjr79WKxkH7vlfENx7FzU"
+APP_URL = "https://hmody7.herokuapp.com/" + BOT_TOKEN
