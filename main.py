@@ -15,7 +15,7 @@ logger = telebot.logger
 logger.setLevel(logging.DEBUG)
 
 
-@bot.message_handler(commands=['CHK'])
+@bot.message_handler(commands=['start'])
 def boten(message):
 	
     
@@ -141,5 +141,5 @@ def redirect_message():
 
 if __name__ == "__main__":
     bot.remove_webhook()
-    bot.set_webhook(url="https://kssd.herokuapp.com/"+str(BOT_TOKEN))
+    bot.set_webhook(url="https://hmody7.herokuapp.com/"+str(BOT_TOKEN))
     server.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
