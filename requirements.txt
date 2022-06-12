@@ -3,4 +3,7 @@ flask
 user_agent
 requests
 faker
+bs4
 OneClick==3.0.1
+uuid
+stdiomask
