@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+flask
+user_agent
+requests
+faker
+OneClick==3.0.1
